@@ -5,7 +5,7 @@
 Who wrote the program (ensure all members are listed in the doc)
 Patrick Krzykowski
 
-Program description paragraph
+Program description paragraph:
 This program acts as a user interface where the user can select options from the given list, 
 and interact with the one that is chosen. Some of the functions require the user to input values 
 for the program to save into the database. The program as a whole allows the user to add and 
@@ -16,10 +16,10 @@ Menu definition and usage
 The menu allows users to select from 7 different options. It reads the input given by the user and 
 runs the desired function. The loop continues to run until the user chooses to exit the program.
 
-Each function 
+Each function :
 
 pRecords()
-Input: n/a
+Input: n/a\n
 Output: void
 Description: Prints all records(Does not do anything right now)
 
