@@ -19,7 +19,7 @@ runs the desired function. The loop continues to run until the user chooses to e
 Each function :
 
 pRecords()
-Input: n/a\n
+Input: n/a
 Output: void
 Description: Prints all records(Does not do anything right now)
 
