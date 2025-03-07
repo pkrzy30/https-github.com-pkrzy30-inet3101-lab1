@@ -1,6 +1,6 @@
-INET 3101
+# INET 3101
 
-Lab 1 Core Concepts
+## Lab 1 Core Concepts
 
 Who wrote the program (ensure all members are listed in the doc)
 Patrick Krzykowski
