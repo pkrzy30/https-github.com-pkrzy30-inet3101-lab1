@@ -20,36 +20,36 @@ Each function
 pRecords()
 Input: n/a
 Output: void
-Description: 
+Description: Prints all records(Does not do anything right now)
 
 aRecord()
 Input: n/a
 Output: void
-Description:
+Description: Takes user input and stores it as record
 
 dRecord()
 Input: n/a
 Output: void
-Description:
+Description: Deletes last record(Does not do anything right now)
 
 numRecords()
 Input: n/a
 Output: void
-Description:
+Description: Prints number of records(Does not do anything right now)
 
 sizeDB()
 Input: n/a
 Output: void
-Description:
+Description: Prints size of database(Does not do anything right now)
 
 numChange()
 Input: bool print
 Output: void
-Description:
+Description: If print is true, prints change, otherwise increments it by 1
 
 main()
 Input: Whatever user responds with
 Output: int
-Description:
+Description: Main function for a program that runs simple menu for user to interact with
 
 Listing of files required and what type they are (.h header, .c c code, etc..)
