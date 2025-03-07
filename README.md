@@ -17,6 +17,7 @@ The menu allows users to select from 7 different options. It reads the input giv
 runs the desired function. The loop continues to run until the user chooses to exit the program.
 
 Each function 
+
 pRecords()
 Input: n/a
 Output: void
